@@ -1,0 +1,40 @@
+1,0,Go!,NONE,0,0,0,0,0
+2,10,Saloniki,Grecja,120,40,120,360,640
+3,0,BlueQuestionMark,NONE,0,0,0,0,0
+4,10,Ateny,Grecja,120,40,120,360,640
+5,400,Parking,NONE,0,0,0,0,0
+6,50,Linie Kolejowe Południowe,NONE,400,100,200,400,0
+7,15,Neapol,Włochy,200,60,180,540,800
+8,0,RedQuestionMark,NONE,0,0,0,0,0
+9,15,Mediolan,Włochy,200,60,180,540,800
+10,20,Rzym,Włochy,240,80,200,600,900
+11,0,Wiezienie,NONE,0,0,0,0,0
+12,20,Barcelona,Hiszpania,280,100,300,900,1250
+13,10,Elektrownia,NONE,300,0,0,0,0
+14,20,Sewilla,Hiszpania,280,100,300,900,1250
+15,25,Madryt,Hiszpania,320,120,360,1000,1400
+16,50,Linie Kolejowe Wschodnie,NONE,400,100,200,400,0
+17,30,Liverpool,Anglia,360,140,400,1100,1500
+18,0,BlueQuestionMark,NONE,0,0,0,0,0
+19,30,Glasgow,Anglia,360,140,400,1100,1500
+20,35,Londyn,Anglia,360,160,440,1200,1600
+21,0,Darmowy Parking,NONE,0,0,0,0,0
+22,35,Rotterdam,Benelux,440,180,500,1400,1750
+23,0,RedQuestionMark,NONE,0,0,0,0,0
+24,35,Bruksela,Benelux,440,180,500,1400,1750
+25,40,Amsterdam,Benelux,480,200,600,1500,1850
+26,50,Linie Kolejowe Północne,NONE,400,100,200,400,0
+27,45,Malmo,Szwecja,520,220,660,1600,1950
+28,45,Goteborg,Szwecja,520,220,660,1600,1950
+29,10,Wodociągi,NONE,300,0,0,0,0
+30,50,Sztokholm,Szwecja,560,240,720,1700,2050
+31,0,Idziesz do Wiezienia,NONE,0,0,0,0,0
+32,55,Frankfurt,RFN,600,260,780,1900,2200
+33,55,Kolonia,RFN,600,260,780,1900,2200
+34,0,BlueQuestionMark,NONE,0,0,0,0,0
+35,60,Bonn,RFN,640,300,900,2000,2400
+36,50,Linie Kolejowe Zachodnie,NONE,400,100,200,400,0
+37,0,RedQuestionMark,NONE,0,0,0,0,0
+38,70,Insbruck,Austria,700,350,1000,2200,2600
+39,200,Podatek,NONE,0,0,0,0,0
+40,100,Wieden,Austria,800,400,1200,2800,3400
